@@ -272,7 +272,7 @@ export default function PortfolioHome() {
                   </div>
                   <div className="space-y-3">
                     <h3 className="text-2xl font-bold font-[family-name:var(--font-orbitron)] text-purple-400">1764 Rating</h3>
-                    <p className="text-sm text-slate-400">Consistent LeetCode Contest Rating demonstrating high-speed algorithmic problem-solving.</p>
+                    <p className="text-sm text-slate-400">Consistent LeetCode Contest Rating depicts high-speed algorithmic problem-solving, I do deep dry run of logics.</p>
                   </div>
                 </div>
               </div>
