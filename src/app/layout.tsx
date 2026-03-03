@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const orbitron = Orbitron({ subsets: ["latin"], variable: "--font-orbitron" });
 
 export const metadata: Metadata = {
-  title: "Srinadh Shaik | Full Stack Developer",
+  title: "Srinadh Shaik - Portfolio",
   description: "Portfolio of Srinadh Shaik, a Competitive Programmer and Full Stack Web Developer.",
 };
 
