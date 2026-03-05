@@ -38,7 +38,7 @@ const educationFeatures = [
   {
     step: "01",
     title: "B.Tech Electrical Engineering",
-    content: "IIEST Shibpur (2023–2027) • Current CGPA: 8.63. Focus on core engineering, algorithms, and scalable full-stack system architecture.",
+    content: "IIEST Shibpur (2023–2027) • Current CGPA: 8.00. Focus on core engineering, algorithms, and scalable full-stack system architecture.",
     image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=2070&auto=format&fit=crop"
   }
 ];
